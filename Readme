@@ -1,0 +1,22 @@
+We are going to start the Machine Learning Models 
+We will deal in
+1) Supervised Learning
+2) Unsupervised Learning
+3) Reinforcement Learning
+4) Semi Supervised Learning
+5) Deep Learning Models
+6) Ensemble Models
+7) Anomaly Detection Models
+8) Time Series Models
+9) Probalistic Models
+
+We are starting from the start 
+We use virtual environment of python for developing the Models
+
+--command for virtual environment
+ py -m venv myvirtualenv
+
+ --command for activating the virtual environment
+    myvirtualenv\Scripts\activate.bat
+                or
+    myvirtualenv\Scripts\activate
